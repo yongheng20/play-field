@@ -22,5 +22,5 @@ if r != 0:
         a = b
         b = r
 
-print "\nThe greatest common divisor of input number is {0}.".format(b)
+print "\nThe greatest common divisor of input numbers is {0}.".format(b)
 print "And that {0}*a + {1}*b = {2}.".format(x2, y2, b)
