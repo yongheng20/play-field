@@ -3,6 +3,8 @@
 import numpy
 from PIL import Image
 import binascii
+from os import listdir
+from os.path import isfile, join
 
 def getMatrixfrom_bin(filename,  width):
     with open(filename, 'rb') as f:
@@ -14,6 +16,10 @@ def getMatrixfrom_bin(filename,  width):
     fh = numpy.uint8(fh)
     return fh
 
-filename = "C:\Users\Nicola\PycharmProjects\play-field\data\class2_02K5GMYITj7bBoAisEmD.bytes"
-im = Image.fromarray(getMatrixfrom_bin(filename, 512)) #转换为图像
-im.save("../output/class2_02K5GMYITj7bBoAisEmD.bytes.png")
+path = "C:\Users\Nicola\PycharmProjects\play-field\data"
+files = [f for f in listdir(path) if isfile(join(path, f))]
+
+for f in files:
+    filename = join(path, f)
+    im = Image.fromarray(getMatrixfrom_bin(filename, 512)) #转换为图像
+    im.save("../output/{0}.png".format(f))
