@@ -1,0 +1,4964 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 16104
+                },
+                {
+                    "name": "Argentina",
+                    "size": 50940
+                },
+                {
+                    "name": "Australia",
+                    "size": 155964
+                },
+                {
+                    "name": "Austria",
+                    "size": 50414
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 23200
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 8326
+                },
+                {
+                    "name": "Belarus",
+                    "size": 39526
+                },
+                {
+                    "name": "Brazil",
+                    "size": 222821
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 42141
+                },
+                {
+                    "name": "Canada",
+                    "size": 482025
+                },
+                {
+                    "name": "Chile",
+                    "size": 18372
+                },
+                {
+                    "name": "China",
+                    "size": 621200
+                },
+                {
+                    "name": "Colombia",
+                    "size": 35393
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 62560
+                },
+                {
+                    "name": "Denmark",
+                    "size": 25758
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 6349
+                },
+                {
+                    "name": "Egypt",
+                    "size": 42863
+                },
+                {
+                    "name": "Finland",
+                    "size": 53983
+                },
+                {
+                    "name": "France",
+                    "size": 420155
+                },
+                {
+                    "name": "Germany",
+                    "size": 549877
+                },
+                {
+                    "name": "Greece",
+                    "size": 35003
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 28960
+                },
+                {
+                    "name": "Hungary",
+                    "size": 28411
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4510
+                },
+                {
+                    "name": "India",
+                    "size": 295988
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 33336
+                },
+                {
+                    "name": "Iran",
+                    "size": 57654
+                },
+                {
+                    "name": "Ireland",
+                    "size": 14515
+                },
+                {
+                    "name": "Italy",
+                    "size": 216891
+                },
+                {
+                    "name": "Japan",
+                    "size": 841057
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 87379
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 118738
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 18477
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 28405
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 25262
+                },
+                {
+                    "name": "Mexico",
+                    "size": 122449
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 71866
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 32147
+                },
+                {
+                    "name": "Norway",
+                    "size": 121848
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 45985
+                },
+                {
+                    "name": "Peru",
+                    "size": 13808
+                },
+                {
+                    "name": "Philippines",
+                    "size": 26327
+                },
+                {
+                    "name": "Poland",
+                    "size": 136364
+                },
+                {
+                    "name": "Portugal",
+                    "size": 28500
+                },
+                {
+                    "name": "Qatar",
+                    "size": 4842
+                },
+                {
+                    "name": "Romania",
+                    "size": 63769
+                },
+                {
+                    "name": "Russia",
+                    "size": 1082200
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 70116
+                },
+                {
+                    "name": "Singapore",
+                    "size": 15618
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 24019
+                },
+                {
+                    "name": "South Africa",
+                    "size": 165385
+                },
+                {
+                    "name": "Spain",
+                    "size": 151741
+                },
+                {
+                    "name": "Sweden",
+                    "size": 146508
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 55804
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 90201
+                },
+                {
+                    "name": "Thailand",
+                    "size": 46176
+                },
+                {
+                    "name": "Turkey",
+                    "size": 57543
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 14610
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 298500
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 17081
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 319739
+                },
+                {
+                    "name": "United States",
+                    "size": 3185427
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 56325
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 59321
+                }
+            ],
+            "name": "1990"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 17345
+                },
+                {
+                    "name": "Argentina",
+                    "size": 54054
+                },
+                {
+                    "name": "Australia",
+                    "size": 158250
+                },
+                {
+                    "name": "Austria",
+                    "size": 51484
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 23356
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 9242
+                },
+                {
+                    "name": "Belarus",
+                    "size": 38735
+                },
+                {
+                    "name": "Brazil",
+                    "size": 234366
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 38917
+                },
+                {
+                    "name": "Canada",
+                    "size": 507913
+                },
+                {
+                    "name": "Chile",
+                    "size": 19808
+                },
+                {
+                    "name": "China",
+                    "size": 677550
+                },
+                {
+                    "name": "Colombia",
+                    "size": 36661
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 60528
+                },
+                {
+                    "name": "Denmark",
+                    "size": 36330
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 6745
+                },
+                {
+                    "name": "Egypt",
+                    "size": 44880
+                },
+                {
+                    "name": "Finland",
+                    "size": 57495
+                },
+                {
+                    "name": "France",
+                    "size": 454735
+                },
+                {
+                    "name": "Germany",
+                    "size": 539391
+                },
+                {
+                    "name": "Greece",
+                    "size": 35813
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 31889
+                },
+                {
+                    "name": "Hungary",
+                    "size": 29980
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4494
+                },
+                {
+                    "name": "India",
+                    "size": 319902
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 37674
+                },
+                {
+                    "name": "Iran",
+                    "size": 62815
+                },
+                {
+                    "name": "Ireland",
+                    "size": 15147
+                },
+                {
+                    "name": "Italy",
+                    "size": 222041
+                },
+                {
+                    "name": "Japan",
+                    "size": 870798
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 85990
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 132228
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 10780
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 29363
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 28335
+                },
+                {
+                    "name": "Mexico",
+                    "size": 126807
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 74252
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 33352
+                },
+                {
+                    "name": "Norway",
+                    "size": 111009
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 50220
+                },
+                {
+                    "name": "Peru",
+                    "size": 14482
+                },
+                {
+                    "name": "Philippines",
+                    "size": 25649
+                },
+                {
+                    "name": "Poland",
+                    "size": 134712
+                },
+                {
+                    "name": "Portugal",
+                    "size": 29871
+                },
+                {
+                    "name": "Qatar",
+                    "size": 4669
+                },
+                {
+                    "name": "Romania",
+                    "size": 56914
+                },
+                {
+                    "name": "Russia",
+                    "size": 1068000
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 74574
+                },
+                {
+                    "name": "Singapore",
+                    "size": 16597
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 22732
+                },
+                {
+                    "name": "South Africa",
+                    "size": 168316
+                },
+                {
+                    "name": "Spain",
+                    "size": 159392
+                },
+                {
+                    "name": "Sweden",
+                    "size": 147384
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 57810
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 99176
+                },
+                {
+                    "name": "Thailand",
+                    "size": 52487
+                },
+                {
+                    "name": "Turkey",
+                    "size": 60246
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 14900
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 279000
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 17352
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 322875
+                },
+                {
+                    "name": "United States",
+                    "size": 3223287
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 54165
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 63337
+                }
+            ],
+            "name": "1991"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 18286
+                },
+                {
+                    "name": "Argentina",
+                    "size": 56262
+                },
+                {
+                    "name": "Australia",
+                    "size": 161698
+                },
+                {
+                    "name": "Austria",
+                    "size": 51180
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 19673
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 9710
+                },
+                {
+                    "name": "Belarus",
+                    "size": 37595
+                },
+                {
+                    "name": "Brazil",
+                    "size": 241730
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 35610
+                },
+                {
+                    "name": "Canada",
+                    "size": 520924
+                },
+                {
+                    "name": "Chile",
+                    "size": 22167
+                },
+                {
+                    "name": "China",
+                    "size": 753940
+                },
+                {
+                    "name": "Colombia",
+                    "size": 35993
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 59293
+                },
+                {
+                    "name": "Denmark",
+                    "size": 30849
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 7196
+                },
+                {
+                    "name": "Egypt",
+                    "size": 46739
+                },
+                {
+                    "name": "Finland",
+                    "size": 57277
+                },
+                {
+                    "name": "France",
+                    "size": 463097
+                },
+                {
+                    "name": "Germany",
+                    "size": 537136
+                },
+                {
+                    "name": "Greece",
+                    "size": 37410
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 35076
+                },
+                {
+                    "name": "Hungary",
+                    "size": 31614
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4546
+                },
+                {
+                    "name": "India",
+                    "size": 338619
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 41009
+                },
+                {
+                    "name": "Iran",
+                    "size": 67178
+                },
+                {
+                    "name": "Ireland",
+                    "size": 16011
+                },
+                {
+                    "name": "Italy",
+                    "size": 226243
+                },
+                {
+                    "name": "Japan",
+                    "size": 876404
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 83166
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 147843
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 16885
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 18707
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 31887
+                },
+                {
+                    "name": "Mexico",
+                    "size": 130103
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 77202
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 32727
+                },
+                {
+                    "name": "Norway",
+                    "size": 117506
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 53575
+                },
+                {
+                    "name": "Peru",
+                    "size": 13122
+                },
+                {
+                    "name": "Philippines",
+                    "size": 25870
+                },
+                {
+                    "name": "Poland",
+                    "size": 132728
+                },
+                {
+                    "name": "Portugal",
+                    "size": 30087
+                },
+                {
+                    "name": "Qatar",
+                    "size": 5183
+                },
+                {
+                    "name": "Romania",
+                    "size": 54195
+                },
+                {
+                    "name": "Russia",
+                    "size": 1008000
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 79630
+                },
+                {
+                    "name": "Singapore",
+                    "size": 17543
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 22255
+                },
+                {
+                    "name": "South Africa",
+                    "size": 167816
+                },
+                {
+                    "name": "Spain",
+                    "size": 161105
+                },
+                {
+                    "name": "Sweden",
+                    "size": 146444
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 59126
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 105528
+                },
+                {
+                    "name": "Thailand",
+                    "size": 59699
+                },
+                {
+                    "name": "Turkey",
+                    "size": 67342
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 13100
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 252600
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 18689
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 321043
+                },
+                {
+                    "name": "United States",
+                    "size": 3235428
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 51050
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 67440
+                }
+            ],
+            "name": "1992"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 19415
+                },
+                {
+                    "name": "Argentina",
+                    "size": 62530
+                },
+                {
+                    "name": "Australia",
+                    "size": 165632
+                },
+                {
+                    "name": "Austria",
+                    "size": 52675
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 19100
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 10156
+                },
+                {
+                    "name": "Belarus",
+                    "size": 33369
+                },
+                {
+                    "name": "Brazil",
+                    "size": 251973
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 37997
+                },
+                {
+                    "name": "Canada",
+                    "size": 532094
+                },
+                {
+                    "name": "Chile",
+                    "size": 23332
+                },
+                {
+                    "name": "China",
+                    "size": 811590
+                },
+                {
+                    "name": "Colombia",
+                    "size": 40298
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 58882
+                },
+                {
+                    "name": "Denmark",
+                    "size": 33738
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 7411
+                },
+                {
+                    "name": "Egypt",
+                    "size": 48321
+                },
+                {
+                    "name": "Finland",
+                    "size": 60575
+                },
+                {
+                    "name": "France",
+                    "size": 472575
+                },
+                {
+                    "name": "Germany",
+                    "size": 525721
+                },
+                {
+                    "name": "Greece",
+                    "size": 38396
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 35947
+                },
+                {
+                    "name": "Hungary",
+                    "size": 32784
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4727
+                },
+                {
+                    "name": "India",
+                    "size": 363641
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 44415
+                },
+                {
+                    "name": "Iran",
+                    "size": 74685
+                },
+                {
+                    "name": "Ireland",
+                    "size": 16396
+                },
+                {
+                    "name": "Italy",
+                    "size": 222788
+                },
+                {
+                    "name": "Japan",
+                    "size": 887215
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 77889
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 163449
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 20178
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14105
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 35579
+                },
+                {
+                    "name": "Mexico",
+                    "size": 135026
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 76992
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 34092
+                },
+                {
+                    "name": "Norway",
+                    "size": 120095
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 57012
+                },
+                {
+                    "name": "Peru",
+                    "size": 14808
+                },
+                {
+                    "name": "Philippines",
+                    "size": 26579
+                },
+                {
+                    "name": "Poland",
+                    "size": 133867
+                },
+                {
+                    "name": "Portugal",
+                    "size": 31205
+                },
+                {
+                    "name": "Qatar",
+                    "size": 5560
+                },
+                {
+                    "name": "Romania",
+                    "size": 55476
+                },
+                {
+                    "name": "Russia",
+                    "size": 956000
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 87913
+                },
+                {
+                    "name": "Singapore",
+                    "size": 18962
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 24429
+                },
+                {
+                    "name": "South Africa",
+                    "size": 174581
+                },
+                {
+                    "name": "Spain",
+                    "size": 160890
+                },
+                {
+                    "name": "Sweden",
+                    "size": 145975
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 61267
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 115205
+                },
+                {
+                    "name": "Thailand",
+                    "size": 66305
+                },
+                {
+                    "name": "Turkey",
+                    "size": 73808
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 12637
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 229907
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 21730
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 323102
+                },
+                {
+                    "name": "United States",
+                    "size": 3353535
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 48716
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 69382
+                }
+            ],
+            "name": "1993"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 19883
+                },
+                {
+                    "name": "Argentina",
+                    "size": 65622
+                },
+                {
+                    "name": "Australia",
+                    "size": 170439
+                },
+                {
+                    "name": "Austria",
+                    "size": 53309
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 17571
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 11111
+                },
+                {
+                    "name": "Belarus",
+                    "size": 31397
+                },
+                {
+                    "name": "Brazil",
+                    "size": 260041
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 38133
+                },
+                {
+                    "name": "Canada",
+                    "size": 555650
+                },
+                {
+                    "name": "Chile",
+                    "size": 25267
+                },
+                {
+                    "name": "China",
+                    "size": 927800
+                },
+                {
+                    "name": "Colombia",
+                    "size": 43354
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 58705
+                },
+                {
+                    "name": "Denmark",
+                    "size": 40554
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 8144
+                },
+                {
+                    "name": "Egypt",
+                    "size": 50446
+                },
+                {
+                    "name": "Finland",
+                    "size": 65031
+                },
+                {
+                    "name": "France",
+                    "size": 476907
+                },
+                {
+                    "name": "Germany",
+                    "size": 528221
+                },
+                {
+                    "name": "Greece",
+                    "size": 40623
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 26741
+                },
+                {
+                    "name": "Hungary",
+                    "size": 33515
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4780
+                },
+                {
+                    "name": "India",
+                    "size": 393679
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 51706
+                },
+                {
+                    "name": "Iran",
+                    "size": 81005
+                },
+                {
+                    "name": "Ireland",
+                    "size": 17126
+                },
+                {
+                    "name": "Italy",
+                    "size": 231803
+                },
+                {
+                    "name": "Japan",
+                    "size": 943669
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 66777
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 184931
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 22802
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 9998
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 40058
+                },
+                {
+                    "name": "Mexico",
+                    "size": 145987
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 79647
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 34923
+                },
+                {
+                    "name": "Norway",
+                    "size": 113488
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 57923
+                },
+                {
+                    "name": "Peru",
+                    "size": 15866
+                },
+                {
+                    "name": "Philippines",
+                    "size": 30459
+                },
+                {
+                    "name": "Poland",
+                    "size": 135350
+                },
+                {
+                    "name": "Portugal",
+                    "size": 31380
+                },
+                {
+                    "name": "Qatar",
+                    "size": 5850
+                },
+                {
+                    "name": "Romania",
+                    "size": 55136
+                },
+                {
+                    "name": "Russia",
+                    "size": 876400
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 96901
+                },
+                {
+                    "name": "Singapore",
+                    "size": 20676
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 24740
+                },
+                {
+                    "name": "South Africa",
+                    "size": 182452
+                },
+                {
+                    "name": "Spain",
+                    "size": 164477
+                },
+                {
+                    "name": "Sweden",
+                    "size": 142895
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 66453
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 124635
+                },
+                {
+                    "name": "Thailand",
+                    "size": 74452
+                },
+                {
+                    "name": "Turkey",
+                    "size": 78322
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 10496
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 202922
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 23736
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 326558
+                },
+                {
+                    "name": "United States",
+                    "size": 3407381
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 47000
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 71221
+                }
+            ],
+            "name": "1994"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 19715
+                },
+                {
+                    "name": "Argentina",
+                    "size": 67169
+                },
+                {
+                    "name": "Australia",
+                    "size": 175504
+                },
+                {
+                    "name": "Austria",
+                    "size": 56587
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 17044
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 12118
+                },
+                {
+                    "name": "Belarus",
+                    "size": 24918
+                },
+                {
+                    "name": "Brazil",
+                    "size": 275601
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 41790
+                },
+                {
+                    "name": "Canada",
+                    "size": 559562
+                },
+                {
+                    "name": "Chile",
+                    "size": 26742
+                },
+                {
+                    "name": "China",
+                    "size": 1006554
+                },
+                {
+                    "name": "Colombia",
+                    "size": 45303
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 60847
+                },
+                {
+                    "name": "Denmark",
+                    "size": 36604
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 8429
+                },
+                {
+                    "name": "Egypt",
+                    "size": 53398
+                },
+                {
+                    "name": "Finland",
+                    "size": 63186
+                },
+                {
+                    "name": "France",
+                    "size": 493900
+                },
+                {
+                    "name": "Germany",
+                    "size": 534727
+                },
+                {
+                    "name": "Greece",
+                    "size": 41551
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 27916
+                },
+                {
+                    "name": "Hungary",
+                    "size": 34017
+                },
+                {
+                    "name": "Iceland",
+                    "size": 4976
+                },
+                {
+                    "name": "India",
+                    "size": 422715
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 58885
+                },
+                {
+                    "name": "Iran",
+                    "size": 84353
+                },
+                {
+                    "name": "Ireland",
+                    "size": 17879
+                },
+                {
+                    "name": "Italy",
+                    "size": 241480
+                },
+                {
+                    "name": "Japan",
+                    "size": 968610
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 66739
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 205102
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 23724
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 13840
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 46632
+                },
+                {
+                    "name": "Mexico",
+                    "size": 152548
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 81048
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 35998
+                },
+                {
+                    "name": "Norway",
+                    "size": 123193
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 63750
+                },
+                {
+                    "name": "Peru",
+                    "size": 16144
+                },
+                {
+                    "name": "Philippines",
+                    "size": 33554
+                },
+                {
+                    "name": "Poland",
+                    "size": 139006
+                },
+                {
+                    "name": "Portugal",
+                    "size": 33263
+                },
+                {
+                    "name": "Qatar",
+                    "size": 6013
+                },
+                {
+                    "name": "Romania",
+                    "size": 59267
+                },
+                {
+                    "name": "Russia",
+                    "size": 862100
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 99857
+                },
+                {
+                    "name": "Singapore",
+                    "size": 22057
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 25905
+                },
+                {
+                    "name": "South Africa",
+                    "size": 188138
+                },
+                {
+                    "name": "Spain",
+                    "size": 168903
+                },
+                {
+                    "name": "Sweden",
+                    "size": 147617
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 63080
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 133117
+                },
+                {
+                    "name": "Thailand",
+                    "size": 83660
+                },
+                {
+                    "name": "Turkey",
+                    "size": 86247
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 9800
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 194018
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 24982
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 337424
+                },
+                {
+                    "name": "United States",
+                    "size": 3516767
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 47400
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 73446
+                }
+            ],
+            "name": "1995"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 20654
+                },
+                {
+                    "name": "Argentina",
+                    "size": 69759
+                },
+                {
+                    "name": "Australia",
+                    "size": 180400
+                },
+                {
+                    "name": "Austria",
+                    "size": 54835
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 17088
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 12809
+                },
+                {
+                    "name": "Belarus",
+                    "size": 23728
+                },
+                {
+                    "name": "Brazil",
+                    "size": 291244
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 42716
+                },
+                {
+                    "name": "Canada",
+                    "size": 572910
+                },
+                {
+                    "name": "Chile",
+                    "size": 30261
+                },
+                {
+                    "name": "China",
+                    "size": 1081300
+                },
+                {
+                    "name": "Colombia",
+                    "size": 44869
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 64257
+                },
+                {
+                    "name": "Denmark",
+                    "size": 53551
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 9672
+                },
+                {
+                    "name": "Egypt",
+                    "size": 56561
+                },
+                {
+                    "name": "Finland",
+                    "size": 69372
+                },
+                {
+                    "name": "France",
+                    "size": 513139
+                },
+                {
+                    "name": "Germany",
+                    "size": 550309
+                },
+                {
+                    "name": "Greece",
+                    "size": 42557
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 28440
+                },
+                {
+                    "name": "Hungary",
+                    "size": 35102
+                },
+                {
+                    "name": "Iceland",
+                    "size": 5113
+                },
+                {
+                    "name": "India",
+                    "size": 444004
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 66718
+                },
+                {
+                    "name": "Iran",
+                    "size": 88760
+                },
+                {
+                    "name": "Ireland",
+                    "size": 19181
+                },
+                {
+                    "name": "Italy",
+                    "size": 244491
+                },
+                {
+                    "name": "Japan",
+                    "size": 989285
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 58747
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 227554
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 25475
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 16789
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 52819
+                },
+                {
+                    "name": "Mexico",
+                    "size": 162526
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 85048
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 36402
+                },
+                {
+                    "name": "Norway",
+                    "size": 104755
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 67565
+                },
+                {
+                    "name": "Peru",
+                    "size": 17280
+                },
+                {
+                    "name": "Philippines",
+                    "size": 36708
+                },
+                {
+                    "name": "Poland",
+                    "size": 143173
+                },
+                {
+                    "name": "Portugal",
+                    "size": 34521
+                },
+                {
+                    "name": "Qatar",
+                    "size": 6615
+                },
+                {
+                    "name": "Romania",
+                    "size": 61350
+                },
+                {
+                    "name": "Russia",
+                    "size": 847000
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 103381
+                },
+                {
+                    "name": "Singapore",
+                    "size": 23458
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 25261
+                },
+                {
+                    "name": "South Africa",
+                    "size": 200092
+                },
+                {
+                    "name": "Spain",
+                    "size": 176510
+                },
+                {
+                    "name": "Sweden",
+                    "size": 139686
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 56888
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 141962
+                },
+                {
+                    "name": "Thailand",
+                    "size": 91202
+                },
+                {
+                    "name": "Turkey",
+                    "size": 94862
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 10100
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 181709
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 26572
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 350867
+                },
+                {
+                    "name": "United States",
+                    "size": 3610696
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 45419
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 75588
+                }
+            ],
+            "name": "1996"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 21150
+                },
+                {
+                    "name": "Argentina",
+                    "size": 72463
+                },
+                {
+                    "name": "Australia",
+                    "size": 189551
+                },
+                {
+                    "name": "Austria",
+                    "size": 56851
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 16800
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 13066
+                },
+                {
+                    "name": "Belarus",
+                    "size": 26100
+                },
+                {
+                    "name": "Brazil",
+                    "size": 307986
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 42720
+                },
+                {
+                    "name": "Canada",
+                    "size": 573573
+                },
+                {
+                    "name": "Chile",
+                    "size": 32549
+                },
+                {
+                    "name": "China",
+                    "size": 1104500
+                },
+                {
+                    "name": "Colombia",
+                    "size": 45900
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 64598
+                },
+                {
+                    "name": "Denmark",
+                    "size": 43727
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 10362
+                },
+                {
+                    "name": "Egypt",
+                    "size": 61000
+                },
+                {
+                    "name": "Finland",
+                    "size": 68782
+                },
+                {
+                    "name": "France",
+                    "size": 504148
+                },
+                {
+                    "name": "Germany",
+                    "size": 549746
+                },
+                {
+                    "name": "Greece",
+                    "size": 43505
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 28943
+                },
+                {
+                    "name": "Hungary",
+                    "size": 35396
+                },
+                {
+                    "name": "Iceland",
+                    "size": 5580
+                },
+                {
+                    "name": "India",
+                    "size": 473597
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 76489
+                },
+                {
+                    "name": "Iran",
+                    "size": 96983
+                },
+                {
+                    "name": "Ireland",
+                    "size": 19958
+                },
+                {
+                    "name": "Italy",
+                    "size": 251462
+                },
+                {
+                    "name": "Japan",
+                    "size": 1014639
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 52000
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 248653
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 26724
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14861
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 58674
+                },
+                {
+                    "name": "Mexico",
+                    "size": 175149
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 86573
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 37153
+                },
+                {
+                    "name": "Norway",
+                    "size": 111636
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 62481
+                },
+                {
+                    "name": "Peru",
+                    "size": 17953
+                },
+                {
+                    "name": "Philippines",
+                    "size": 39797
+                },
+                {
+                    "name": "Poland",
+                    "size": 142769
+                },
+                {
+                    "name": "Portugal",
+                    "size": 34208
+                },
+                {
+                    "name": "Qatar",
+                    "size": 6910
+                },
+                {
+                    "name": "Romania",
+                    "size": 57148
+                },
+                {
+                    "name": "Russia",
+                    "size": 834000
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 107289
+                },
+                {
+                    "name": "Singapore",
+                    "size": 26188
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 24251
+                },
+                {
+                    "name": "South Africa",
+                    "size": 210362
+                },
+                {
+                    "name": "Spain",
+                    "size": 183879
+                },
+                {
+                    "name": "Sweden",
+                    "size": 149407
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 62715
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 150186
+                },
+                {
+                    "name": "Thailand",
+                    "size": 97553
+                },
+                {
+                    "name": "Turkey",
+                    "size": 102000
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 9400
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 176000
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 28464
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 350667
+                },
+                {
+                    "name": "United States",
+                    "size": 3660811
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 46000
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 78066
+                }
+            ],
+            "name": "1997"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 23615
+                },
+                {
+                    "name": "Argentina",
+                    "size": 74170
+                },
+                {
+                    "name": "Australia",
+                    "size": 199660
+                },
+                {
+                    "name": "Austria",
+                    "size": 57437
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 17900
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 14044
+                },
+                {
+                    "name": "Belarus",
+                    "size": 23500
+                },
+                {
+                    "name": "Brazil",
+                    "size": 321748
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 41666
+                },
+                {
+                    "name": "Canada",
+                    "size": 561619
+                },
+                {
+                    "name": "Chile",
+                    "size": 35503
+                },
+                {
+                    "name": "China",
+                    "size": 1163506
+                },
+                {
+                    "name": "Colombia",
+                    "size": 46065
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 64930
+                },
+                {
+                    "name": "Denmark",
+                    "size": 40985
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 10890
+                },
+                {
+                    "name": "Egypt",
+                    "size": 65159
+                },
+                {
+                    "name": "Finland",
+                    "size": 70035
+                },
+                {
+                    "name": "France",
+                    "size": 510892
+                },
+                {
+                    "name": "Germany",
+                    "size": 553422
+                },
+                {
+                    "name": "Greece",
+                    "size": 46329
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 31134
+                },
+                {
+                    "name": "Hungary",
+                    "size": 37188
+                },
+                {
+                    "name": "Iceland",
+                    "size": 6275
+                },
+                {
+                    "name": "India",
+                    "size": 506799
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 77263
+                },
+                {
+                    "name": "Iran",
+                    "size": 102386
+                },
+                {
+                    "name": "Ireland",
+                    "size": 21077
+                },
+                {
+                    "name": "Italy",
+                    "size": 259761
+                },
+                {
+                    "name": "Japan",
+                    "size": 1019835
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 49800
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 240587
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 29984
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 17630
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 60471
+                },
+                {
+                    "name": "Mexico",
+                    "size": 181801
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 90840
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 37334
+                },
+                {
+                    "name": "Norway",
+                    "size": 116983
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 66396
+                },
+                {
+                    "name": "Peru",
+                    "size": 18583
+                },
+                {
+                    "name": "Philippines",
+                    "size": 41578
+                },
+                {
+                    "name": "Poland",
+                    "size": 142771
+                },
+                {
+                    "name": "Portugal",
+                    "size": 38984
+                },
+                {
+                    "name": "Qatar",
+                    "size": 8166
+                },
+                {
+                    "name": "Romania",
+                    "size": 53496
+                },
+                {
+                    "name": "Russia",
+                    "size": 826100
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 112691
+                },
+                {
+                    "name": "Singapore",
+                    "size": 28283
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 25000
+                },
+                {
+                    "name": "South Africa",
+                    "size": 205374
+                },
+                {
+                    "name": "Spain",
+                    "size": 196046
+                },
+                {
+                    "name": "Sweden",
+                    "size": 154234
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 62877
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 162879
+                },
+                {
+                    "name": "Thailand",
+                    "size": 94269
+                },
+                {
+                    "name": "Turkey",
+                    "size": 110900
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 9100
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 171900
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 33392
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 362702
+                },
+                {
+                    "name": "United States",
+                    "size": 3797086
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 45900
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 80904
+                }
+            ],
+            "name": "1998"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 24757
+                },
+                {
+                    "name": "Argentina",
+                    "size": 80745
+                },
+                {
+                    "name": "Australia",
+                    "size": 205565
+                },
+                {
+                    "name": "Austria",
+                    "size": 60369
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 18100
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 15179
+                },
+                {
+                    "name": "Belarus",
+                    "size": 26500
+                },
+                {
+                    "name": "Brazil",
+                    "size": 334716
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 38177
+                },
+                {
+                    "name": "Canada",
+                    "size": 577080
+                },
+                {
+                    "name": "Chile",
+                    "size": 38389
+                },
+                {
+                    "name": "China",
+                    "size": 1197471
+                },
+                {
+                    "name": "Colombia",
+                    "size": 44400
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 64692
+                },
+                {
+                    "name": "Denmark",
+                    "size": 38869
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 10332
+                },
+                {
+                    "name": "Egypt",
+                    "size": 70747
+                },
+                {
+                    "name": "Finland",
+                    "size": 69475
+                },
+                {
+                    "name": "France",
+                    "size": 523557
+                },
+                {
+                    "name": "Germany",
+                    "size": 554900
+                },
+                {
+                    "name": "Greece",
+                    "size": 49620
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 29496
+                },
+                {
+                    "name": "Hungary",
+                    "size": 37154
+                },
+                {
+                    "name": "Iceland",
+                    "size": 7185
+                },
+                {
+                    "name": "India",
+                    "size": 542550
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 84269
+                },
+                {
+                    "name": "Iran",
+                    "size": 110088
+                },
+                {
+                    "name": "Ireland",
+                    "size": 22038
+                },
+                {
+                    "name": "Italy",
+                    "size": 265657
+                },
+                {
+                    "name": "Japan",
+                    "size": 1036789
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 47300
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 266818
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 31576
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 13535
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 62553
+                },
+                {
+                    "name": "Mexico",
+                    "size": 192267
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 86680
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 37800
+                },
+                {
+                    "name": "Norway",
+                    "size": 122660
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 65302
+                },
+                {
+                    "name": "Peru",
+                    "size": 19050
+                },
+                {
+                    "name": "Philippines",
+                    "size": 41432
+                },
+                {
+                    "name": "Poland",
+                    "size": 142128
+                },
+                {
+                    "name": "Portugal",
+                    "size": 43287
+                },
+                {
+                    "name": "Qatar",
+                    "size": 8939
+                },
+                {
+                    "name": "Romania",
+                    "size": 50713
+                },
+                {
+                    "name": "Russia",
+                    "size": 846200
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 120000
+                },
+                {
+                    "name": "Singapore",
+                    "size": 29520
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 27743
+                },
+                {
+                    "name": "South Africa",
+                    "size": 203102
+                },
+                {
+                    "name": "Spain",
+                    "size": 208913
+                },
+                {
+                    "name": "Sweden",
+                    "size": 155159
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 69546
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 169473
+                },
+                {
+                    "name": "Thailand",
+                    "size": 94267
+                },
+                {
+                    "name": "Turkey",
+                    "size": 116594
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 9000
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 171000
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 37127
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 368152
+                },
+                {
+                    "name": "United States",
+                    "size": 3875683
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 45300
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 80585
+                }
+            ],
+            "name": "1999"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 25008
+                },
+                {
+                    "name": "Argentina",
+                    "size": 88978
+                },
+                {
+                    "name": "Australia",
+                    "size": 212301
+                },
+                {
+                    "name": "Austria",
+                    "size": 61798
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 18700
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 15760
+                },
+                {
+                    "name": "Belarus",
+                    "size": 26100
+                },
+                {
+                    "name": "Brazil",
+                    "size": 348909
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 40927
+                },
+                {
+                    "name": "Canada",
+                    "size": 604799
+                },
+                {
+                    "name": "Chile",
+                    "size": 40077
+                },
+                {
+                    "name": "China",
+                    "size": 1355600
+                },
+                {
+                    "name": "Colombia",
+                    "size": 42296
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 73466
+                },
+                {
+                    "name": "Denmark",
+                    "size": 35838
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 10612
+                },
+                {
+                    "name": "Egypt",
+                    "size": 72980
+                },
+                {
+                    "name": "Finland",
+                    "size": 69952
+                },
+                {
+                    "name": "France",
+                    "size": 540800
+                },
+                {
+                    "name": "Germany",
+                    "size": 564450
+                },
+                {
+                    "name": "Greece",
+                    "size": 53843
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 31329
+                },
+                {
+                    "name": "Hungary",
+                    "size": 35191
+                },
+                {
+                    "name": "Iceland",
+                    "size": 7679
+                },
+                {
+                    "name": "India",
+                    "size": 565412
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 92640
+                },
+                {
+                    "name": "Iran",
+                    "size": 119348
+                },
+                {
+                    "name": "Ireland",
+                    "size": 23977
+                },
+                {
+                    "name": "Italy",
+                    "size": 276629
+                },
+                {
+                    "name": "Japan",
+                    "size": 1057937
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 51635
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 295156
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 32853
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 11425
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 66678
+                },
+                {
+                    "name": "Mexico",
+                    "size": 204373
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 89467
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 39269
+                },
+                {
+                    "name": "Norway",
+                    "size": 142984
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 64650
+                },
+                {
+                    "name": "Peru",
+                    "size": 19923
+                },
+                {
+                    "name": "Philippines",
+                    "size": 45290
+                },
+                {
+                    "name": "Poland",
+                    "size": 145183
+                },
+                {
+                    "name": "Portugal",
+                    "size": 43764
+                },
+                {
+                    "name": "Qatar",
+                    "size": 9134
+                },
+                {
+                    "name": "Romania",
+                    "size": 51935
+                },
+                {
+                    "name": "Russia",
+                    "size": 877800
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 126191
+                },
+                {
+                    "name": "Singapore",
+                    "size": 31665
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 30685
+                },
+                {
+                    "name": "South Africa",
+                    "size": 210670
+                },
+                {
+                    "name": "Spain",
+                    "size": 224779
+                },
+                {
+                    "name": "Sweden",
+                    "size": 145757
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 67351
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 184856
+                },
+                {
+                    "name": "Thailand",
+                    "size": 95977
+                },
+                {
+                    "name": "Turkey",
+                    "size": 124921
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 9845
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 169000
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 39944
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 377070
+                },
+                {
+                    "name": "United States",
+                    "size": 3990496
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 46800
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 85211
+                }
+            ],
+            "name": "2000"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 26256
+                },
+                {
+                    "name": "Argentina",
+                    "size": 90138
+                },
+                {
+                    "name": "Australia",
+                    "size": 221602
+                },
+                {
+                    "name": "Austria",
+                    "size": 61803
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 18969
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 17086
+                },
+                {
+                    "name": "Belarus",
+                    "size": 25042
+                },
+                {
+                    "name": "Brazil",
+                    "size": 328509
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 43969
+                },
+                {
+                    "name": "Canada",
+                    "size": 582371
+                },
+                {
+                    "name": "Chile",
+                    "size": 42531
+                },
+                {
+                    "name": "China",
+                    "size": 1480802
+                },
+                {
+                    "name": "Colombia",
+                    "size": 43300
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 74647
+                },
+                {
+                    "name": "Denmark",
+                    "size": 37605
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 11072
+                },
+                {
+                    "name": "Egypt",
+                    "size": 80220
+                },
+                {
+                    "name": "Finland",
+                    "size": 74340
+                },
+                {
+                    "name": "France",
+                    "size": 549800
+                },
+                {
+                    "name": "Germany",
+                    "size": 586100
+                },
+                {
+                    "name": "Greece",
+                    "size": 53704
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 32429
+                },
+                {
+                    "name": "Hungary",
+                    "size": 36418
+                },
+                {
+                    "name": "Iceland",
+                    "size": 8028
+                },
+                {
+                    "name": "India",
+                    "size": 583476
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 101647
+                },
+                {
+                    "name": "Iran",
+                    "size": 128166
+                },
+                {
+                    "name": "Ireland",
+                    "size": 25315
+                },
+                {
+                    "name": "Italy",
+                    "size": 278995
+                },
+                {
+                    "name": "Japan",
+                    "size": 1039719
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 55600
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 313963
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 34829
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14737
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 72280
+                },
+                {
+                    "name": "Mexico",
+                    "size": 209642
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 93720
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 39690
+                },
+                {
+                    "name": "Norway",
+                    "size": 121920
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 75121
+                },
+                {
+                    "name": "Peru",
+                    "size": 20786
+                },
+                {
+                    "name": "Philippines",
+                    "size": 47049
+                },
+                {
+                    "name": "Poland",
+                    "size": 145655
+                },
+                {
+                    "name": "Portugal",
+                    "size": 46509
+                },
+                {
+                    "name": "Qatar",
+                    "size": 9951
+                },
+                {
+                    "name": "Romania",
+                    "size": 53866
+                },
+                {
+                    "name": "Russia",
+                    "size": 891300
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 133673
+                },
+                {
+                    "name": "Singapore",
+                    "size": 33089
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 32046
+                },
+                {
+                    "name": "South Africa",
+                    "size": 210100
+                },
+                {
+                    "name": "Spain",
+                    "size": 237417
+                },
+                {
+                    "name": "Sweden",
+                    "size": 161729
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 71912
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 188518
+                },
+                {
+                    "name": "Thailand",
+                    "size": 102420
+                },
+                {
+                    "name": "Turkey",
+                    "size": 122725
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 11154
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 171400
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 43172
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 384786
+                },
+                {
+                    "name": "United States",
+                    "size": 3924082
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 46576
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 90117
+                }
+            ],
+            "name": "2001"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 27403
+                },
+                {
+                    "name": "Argentina",
+                    "size": 84581
+                },
+                {
+                    "name": "Australia",
+                    "size": 227239
+                },
+                {
+                    "name": "Austria",
+                    "size": 62671
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 18701
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 18649
+                },
+                {
+                    "name": "Belarus",
+                    "size": 26455
+                },
+                {
+                    "name": "Brazil",
+                    "size": 345671
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 42701
+                },
+                {
+                    "name": "Canada",
+                    "size": 581094
+                },
+                {
+                    "name": "Chile",
+                    "size": 43670
+                },
+                {
+                    "name": "China",
+                    "size": 1654000
+                },
+                {
+                    "name": "Colombia",
+                    "size": 45800
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 76348
+                },
+                {
+                    "name": "Denmark",
+                    "size": 39047
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 11944
+                },
+                {
+                    "name": "Egypt",
+                    "size": 85681
+                },
+                {
+                    "name": "Finland",
+                    "size": 75228
+                },
+                {
+                    "name": "France",
+                    "size": 559200
+                },
+                {
+                    "name": "Germany",
+                    "size": 586700
+                },
+                {
+                    "name": "Greece",
+                    "size": 54608
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 34312
+                },
+                {
+                    "name": "Hungary",
+                    "size": 36158
+                },
+                {
+                    "name": "Iceland",
+                    "size": 8411
+                },
+                {
+                    "name": "India",
+                    "size": 605726
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 108206
+                },
+                {
+                    "name": "Iran",
+                    "size": 138224
+                },
+                {
+                    "name": "Ireland",
+                    "size": 24632
+                },
+                {
+                    "name": "Italy",
+                    "size": 284401
+                },
+                {
+                    "name": "Japan",
+                    "size": 1058342
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 58700
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 336237
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 36892
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 17721
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 75328
+                },
+                {
+                    "name": "Mexico",
+                    "size": 214101
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 96290
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 40631
+                },
+                {
+                    "name": "Norway",
+                    "size": 130600
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 81637
+                },
+                {
+                    "name": "Peru",
+                    "size": 21982
+                },
+                {
+                    "name": "Philippines",
+                    "size": 48467
+                },
+                {
+                    "name": "Poland",
+                    "size": 144126
+                },
+                {
+                    "name": "Portugal",
+                    "size": 46107
+                },
+                {
+                    "name": "Qatar",
+                    "size": 10940
+                },
+                {
+                    "name": "Romania",
+                    "size": 54935
+                },
+                {
+                    "name": "Russia",
+                    "size": 891270
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 141737
+                },
+                {
+                    "name": "Singapore",
+                    "size": 34665
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 32427
+                },
+                {
+                    "name": "South Africa",
+                    "size": 217712
+                },
+                {
+                    "name": "Spain",
+                    "size": 246164
+                },
+                {
+                    "name": "Sweden",
+                    "size": 146731
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 66654
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 198812
+                },
+                {
+                    "name": "Thailand",
+                    "size": 109013
+                },
+                {
+                    "name": "Turkey",
+                    "size": 132482
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 11200
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 173734
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 46586
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 387246
+                },
+                {
+                    "name": "United States",
+                    "size": 4050287
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 49306
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 89395
+                }
+            ],
+            "name": "2002"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 29192
+                },
+                {
+                    "name": "Argentina",
+                    "size": 92047
+                },
+                {
+                    "name": "Australia",
+                    "size": 228256
+                },
+                {
+                    "name": "Austria",
+                    "size": 60219
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 21286
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 19712
+                },
+                {
+                    "name": "Belarus",
+                    "size": 26627
+                },
+                {
+                    "name": "Brazil",
+                    "size": 364339
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 42600
+                },
+                {
+                    "name": "Canada",
+                    "size": 567833
+                },
+                {
+                    "name": "Chile",
+                    "size": 48780
+                },
+                {
+                    "name": "China",
+                    "size": 1910575
+                },
+                {
+                    "name": "Colombia",
+                    "size": 47100
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 83227
+                },
+                {
+                    "name": "Denmark",
+                    "size": 45993
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 12666
+                },
+                {
+                    "name": "Egypt",
+                    "size": 91517
+                },
+                {
+                    "name": "Finland",
+                    "size": 83881
+                },
+                {
+                    "name": "France",
+                    "size": 566900
+                },
+                {
+                    "name": "Germany",
+                    "size": 607500
+                },
+                {
+                    "name": "Greece",
+                    "size": 58478
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 35506
+                },
+                {
+                    "name": "Hungary",
+                    "size": 34145
+                },
+                {
+                    "name": "Iceland",
+                    "size": 8495
+                },
+                {
+                    "name": "India",
+                    "size": 641425
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 112926
+                },
+                {
+                    "name": "Iran",
+                    "size": 145659
+                },
+                {
+                    "name": "Ireland",
+                    "size": 25301
+                },
+                {
+                    "name": "Italy",
+                    "size": 293865
+                },
+                {
+                    "name": "Japan",
+                    "size": 1082614
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 63866
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 352352
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 39802
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 19488
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 84022
+                },
+                {
+                    "name": "Mexico",
+                    "size": 216977
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 96705
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 40821
+                },
+                {
+                    "name": "Norway",
+                    "size": 107274
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 84488
+                },
+                {
+                    "name": "Peru",
+                    "size": 22923
+                },
+                {
+                    "name": "Philippines",
+                    "size": 52941
+                },
+                {
+                    "name": "Poland",
+                    "size": 151631
+                },
+                {
+                    "name": "Portugal",
+                    "size": 46852
+                },
+                {
+                    "name": "Qatar",
+                    "size": 12012
+                },
+                {
+                    "name": "Romania",
+                    "size": 56645
+                },
+                {
+                    "name": "Russia",
+                    "size": 912080
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 153000
+                },
+                {
+                    "name": "Singapore",
+                    "size": 35331
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 31178
+                },
+                {
+                    "name": "South Africa",
+                    "size": 234229
+                },
+                {
+                    "name": "Spain",
+                    "size": 264413
+                },
+                {
+                    "name": "Sweden",
+                    "size": 135213
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 66988
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 209051
+                },
+                {
+                    "name": "Thailand",
+                    "size": 116983
+                },
+                {
+                    "name": "Turkey",
+                    "size": 141280
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 10800
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 179504
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 49540
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 398209
+                },
+                {
+                    "name": "United States",
+                    "size": 4075833
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 48700
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 90060
+                }
+            ],
+            "name": "2003"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 30925
+                },
+                {
+                    "name": "Argentina",
+                    "size": 100267
+                },
+                {
+                    "name": "Australia",
+                    "size": 237396
+                },
+                {
+                    "name": "Austria",
+                    "size": 64285
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 21744
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 21466
+                },
+                {
+                    "name": "Belarus",
+                    "size": 31211
+                },
+                {
+                    "name": "Brazil",
+                    "size": 387451
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 41621
+                },
+                {
+                    "name": "Canada",
+                    "size": 576418
+                },
+                {
+                    "name": "Chile",
+                    "size": 52854
+                },
+                {
+                    "name": "China",
+                    "size": 2203310
+                },
+                {
+                    "name": "Colombia",
+                    "size": 48571
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 84333
+                },
+                {
+                    "name": "Denmark",
+                    "size": 40260
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 14227
+                },
+                {
+                    "name": "Egypt",
+                    "size": 97304
+                },
+                {
+                    "name": "Finland",
+                    "size": 85659
+                },
+                {
+                    "name": "France",
+                    "size": 574300
+                },
+                {
+                    "name": "Germany",
+                    "size": 616000
+                },
+                {
+                    "name": "Greece",
+                    "size": 59346
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 37129
+                },
+                {
+                    "name": "Hungary",
+                    "size": 33708
+                },
+                {
+                    "name": "Iceland",
+                    "size": 8618
+                },
+                {
+                    "name": "India",
+                    "size": 673770
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 120160
+                },
+                {
+                    "name": "Iran",
+                    "size": 156408
+                },
+                {
+                    "name": "Ireland",
+                    "size": 25569
+                },
+                {
+                    "name": "Italy",
+                    "size": 303321
+                },
+                {
+                    "name": "Japan",
+                    "size": 1107846
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 66942
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 372148
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 41256
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 19274
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 90661
+                },
+                {
+                    "name": "Mexico",
+                    "size": 222009
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 102440
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 42508
+                },
+                {
+                    "name": "Norway",
+                    "size": 110602
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 88658
+                },
+                {
+                    "name": "Peru",
+                    "size": 24267
+                },
+                {
+                    "name": "Philippines",
+                    "size": 55957
+                },
+                {
+                    "name": "Poland",
+                    "size": 154159
+                },
+                {
+                    "name": "Portugal",
+                    "size": 45105
+                },
+                {
+                    "name": "Qatar",
+                    "size": 13233
+                },
+                {
+                    "name": "Romania",
+                    "size": 56482
+                },
+                {
+                    "name": "Russia",
+                    "size": 931900
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 159414
+                },
+                {
+                    "name": "Singapore",
+                    "size": 36810
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 30567
+                },
+                {
+                    "name": "South Africa",
+                    "size": 244607
+                },
+                {
+                    "name": "Spain",
+                    "size": 280007
+                },
+                {
+                    "name": "Sweden",
+                    "size": 147647
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 65549
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 218371
+                },
+                {
+                    "name": "Thailand",
+                    "size": 125727
+                },
+                {
+                    "name": "Turkey",
+                    "size": 149608
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 11425
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 182200
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 52417
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 393929
+                },
+                {
+                    "name": "United States",
+                    "size": 4168116
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 49627
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 96870
+                }
+            ],
+            "name": "2004"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 33611
+                },
+                {
+                    "name": "Argentina",
+                    "size": 105545
+                },
+                {
+                    "name": "Australia",
+                    "size": 248968
+                },
+                {
+                    "name": "Austria",
+                    "size": 60632
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 22872
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 22643
+                },
+                {
+                    "name": "Belarus",
+                    "size": 30961
+                },
+                {
+                    "name": "Brazil",
+                    "size": 402938
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 44365
+                },
+                {
+                    "name": "Canada",
+                    "size": 597248
+                },
+                {
+                    "name": "Chile",
+                    "size": 54483
+                },
+                {
+                    "name": "China",
+                    "size": 2500260
+                },
+                {
+                    "name": "Colombia",
+                    "size": 49295
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 82579
+                },
+                {
+                    "name": "Denmark",
+                    "size": 36027
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 15128
+                },
+                {
+                    "name": "Egypt",
+                    "size": 103982
+                },
+                {
+                    "name": "Finland",
+                    "size": 70254
+                },
+                {
+                    "name": "France",
+                    "size": 576200
+                },
+                {
+                    "name": "Germany",
+                    "size": 620300
+                },
+                {
+                    "name": "Greece",
+                    "size": 60020
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 38448
+                },
+                {
+                    "name": "Hungary",
+                    "size": 35755
+                },
+                {
+                    "name": "Iceland",
+                    "size": 8680
+                },
+                {
+                    "name": "India",
+                    "size": 708684
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 127362
+                },
+                {
+                    "name": "Iran",
+                    "size": 169666
+                },
+                {
+                    "name": "Ireland",
+                    "size": 25970
+                },
+                {
+                    "name": "Italy",
+                    "size": 303672
+                },
+                {
+                    "name": "Japan",
+                    "size": 1133584
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 67920
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 396611
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 43734
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14784
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 96225
+                },
+                {
+                    "name": "Mexico",
+                    "size": 233078
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 100424
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 42965
+                },
+                {
+                    "name": "Norway",
+                    "size": 138073
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 87107
+                },
+                {
+                    "name": "Peru",
+                    "size": 25510
+                },
+                {
+                    "name": "Philippines",
+                    "size": 56568
+                },
+                {
+                    "name": "Poland",
+                    "size": 156936
+                },
+                {
+                    "name": "Portugal",
+                    "size": 46585
+                },
+                {
+                    "name": "Qatar",
+                    "size": 14396
+                },
+                {
+                    "name": "Romania",
+                    "size": 59413
+                },
+                {
+                    "name": "Russia",
+                    "size": 953100
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 174970
+                },
+                {
+                    "name": "Singapore",
+                    "size": 38213
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 31455
+                },
+                {
+                    "name": "South Africa",
+                    "size": 244920
+                },
+                {
+                    "name": "Spain",
+                    "size": 294077
+                },
+                {
+                    "name": "Sweden",
+                    "size": 158413
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 59772
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 227357
+                },
+                {
+                    "name": "Thailand",
+                    "size": 132197
+                },
+                {
+                    "name": "Turkey",
+                    "size": 161983
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 12820
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 185000
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 60698
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 398359
+                },
+                {
+                    "name": "United States",
+                    "size": 4257369
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 47706
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 104358
+                }
+            ],
+            "name": "2005"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 35007
+                },
+                {
+                    "name": "Argentina",
+                    "size": 117142
+                },
+                {
+                    "name": "Australia",
+                    "size": 254750
+                },
+                {
+                    "name": "Austria",
+                    "size": 63394
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 24543
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 24334
+                },
+                {
+                    "name": "Belarus",
+                    "size": 31811
+                },
+                {
+                    "name": "Brazil",
+                    "size": 419337
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 45843
+                },
+                {
+                    "name": "Canada",
+                    "size": 592008
+                },
+                {
+                    "name": "Chile",
+                    "size": 57555
+                },
+                {
+                    "name": "China",
+                    "size": 2865726
+                },
+                {
+                    "name": "Colombia",
+                    "size": 52340
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 84288
+                },
+                {
+                    "name": "Denmark",
+                    "size": 45591
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 16086
+                },
+                {
+                    "name": "Egypt",
+                    "size": 110706
+                },
+                {
+                    "name": "Finland",
+                    "size": 82157
+                },
+                {
+                    "name": "France",
+                    "size": 574600
+                },
+                {
+                    "name": "Germany",
+                    "size": 636800
+                },
+                {
+                    "name": "Greece",
+                    "size": 60789
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 38613
+                },
+                {
+                    "name": "Hungary",
+                    "size": 35859
+                },
+                {
+                    "name": "Iceland",
+                    "size": 9548
+                },
+                {
+                    "name": "India",
+                    "size": 759692
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 133108
+                },
+                {
+                    "name": "Iran",
+                    "size": 184279
+                },
+                {
+                    "name": "Ireland",
+                    "size": 27037
+                },
+                {
+                    "name": "Italy",
+                    "size": 314090
+                },
+                {
+                    "name": "Japan",
+                    "size": 1139783
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 71668
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 415949
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 47607
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 12482
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 100831
+                },
+                {
+                    "name": "Mexico",
+                    "size": 244920
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 98835
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 43596
+                },
+                {
+                    "name": "Norway",
+                    "size": 121663
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 96226
+                },
+                {
+                    "name": "Peru",
+                    "size": 27370
+                },
+                {
+                    "name": "Philippines",
+                    "size": 56784
+                },
+                {
+                    "name": "Poland",
+                    "size": 161742
+                },
+                {
+                    "name": "Portugal",
+                    "size": 49041
+                },
+                {
+                    "name": "Qatar",
+                    "size": 15325
+                },
+                {
+                    "name": "Romania",
+                    "size": 62697
+                },
+                {
+                    "name": "Russia",
+                    "size": 995950
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 179782
+                },
+                {
+                    "name": "Singapore",
+                    "size": 39442
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 31418
+                },
+                {
+                    "name": "South Africa",
+                    "size": 253798
+                },
+                {
+                    "name": "Spain",
+                    "size": 303051
+                },
+                {
+                    "name": "Sweden",
+                    "size": 143300
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 64130
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 235186
+                },
+                {
+                    "name": "Thailand",
+                    "size": 138742
+                },
+                {
+                    "name": "Turkey",
+                    "size": 176237
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 13650
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 192125
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 66768
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 397855
+                },
+                {
+                    "name": "United States",
+                    "size": 4266332
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 49299
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 111478
+                }
+            ],
+            "name": "2006"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 36951
+                },
+                {
+                    "name": "Argentina",
+                    "size": 120828
+                },
+                {
+                    "name": "Australia",
+                    "size": 260593
+                },
+                {
+                    "name": "Austria",
+                    "size": 63741
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 21847
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 25891
+                },
+                {
+                    "name": "Belarus",
+                    "size": 31811
+                },
+                {
+                    "name": "Brazil",
+                    "size": 444583
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 43139
+                },
+                {
+                    "name": "Canada",
+                    "size": 603572
+                },
+                {
+                    "name": "Chile",
+                    "size": 60138
+                },
+                {
+                    "name": "China",
+                    "size": 3281553
+                },
+                {
+                    "name": "Colombia",
+                    "size": 53626
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 88081
+                },
+                {
+                    "name": "Denmark",
+                    "size": 39227
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 18198
+                },
+                {
+                    "name": "Egypt",
+                    "size": 118966
+                },
+                {
+                    "name": "Finland",
+                    "size": 81248
+                },
+                {
+                    "name": "France",
+                    "size": 569800
+                },
+                {
+                    "name": "Germany",
+                    "size": 637600
+                },
+                {
+                    "name": "Greece",
+                    "size": 63243
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 38948
+                },
+                {
+                    "name": "Hungary",
+                    "size": 39959
+                },
+                {
+                    "name": "Iceland",
+                    "size": 11976
+                },
+                {
+                    "name": "India",
+                    "size": 808832
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 142411
+                },
+                {
+                    "name": "Iran",
+                    "size": 196041
+                },
+                {
+                    "name": "Ireland",
+                    "size": 28226
+                },
+                {
+                    "name": "Italy",
+                    "size": 313900
+                },
+                {
+                    "name": "Japan",
+                    "size": 1160042
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 76622
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 439984
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 49321
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14008
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 104950
+                },
+                {
+                    "name": "Mexico",
+                    "size": 253691
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 105164
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 43758
+                },
+                {
+                    "name": "Norway",
+                    "size": 137709
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 98789
+                },
+                {
+                    "name": "Peru",
+                    "size": 29943
+                },
+                {
+                    "name": "Philippines",
+                    "size": 59612
+                },
+                {
+                    "name": "Poland",
+                    "size": 159348
+                },
+                {
+                    "name": "Portugal",
+                    "size": 47441
+                },
+                {
+                    "name": "Qatar",
+                    "size": 17501
+                },
+                {
+                    "name": "Romania",
+                    "size": 61673
+                },
+                {
+                    "name": "Russia",
+                    "size": 1014371
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 185895
+                },
+                {
+                    "name": "Singapore",
+                    "size": 41138
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 28056
+                },
+                {
+                    "name": "South Africa",
+                    "size": 266234
+                },
+                {
+                    "name": "Spain",
+                    "size": 306400
+                },
+                {
+                    "name": "Sweden",
+                    "size": 148557
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 68026
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 242674
+                },
+                {
+                    "name": "Thailand",
+                    "size": 144596
+                },
+                {
+                    "name": "Turkey",
+                    "size": 190689
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 14606
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 195131
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 71909
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 396142
+                },
+                {
+                    "name": "United States",
+                    "size": 4364994
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 48999
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 114538
+                }
+            ],
+            "name": "2007"
+        },
+        {
+            "children": [
+                {
+                    "name": "Algeria",
+                    "size": 39987
+                },
+                {
+                    "name": "Argentina",
+                    "size": 125057
+                },
+                {
+                    "name": "Australia",
+                    "size": 272262
+                },
+                {
+                    "name": "Austria",
+                    "size": 67796
+                },
+                {
+                    "name": "Azerbaijan",
+                    "size": 21646
+                },
+                {
+                    "name": "Bangladesh",
+                    "size": 27497
+                },
+                {
+                    "name": "Belarus",
+                    "size": 34912
+                },
+                {
+                    "name": "Brazil",
+                    "size": 454500
+                },
+                {
+                    "name": "Bulgaria",
+                    "size": 44988
+                },
+                {
+                    "name": "Canada",
+                    "size": 598928
+                },
+                {
+                    "name": "Chile",
+                    "size": 60551
+                },
+                {
+                    "name": "China",
+                    "size": 3433400
+                },
+                {
+                    "name": "Colombia",
+                    "size": 54396
+                },
+                {
+                    "name": "Czech Rep.",
+                    "size": 85486
+                },
+                {
+                    "name": "Denmark",
+                    "size": 36411
+                },
+                {
+                    "name": "Ecuador",
+                    "size": 19533
+                },
+                {
+                    "name": "Egypt",
+                    "size": 127853
+                },
+                {
+                    "name": "Finland",
+                    "size": 77137
+                },
+                {
+                    "name": "France",
+                    "size": 574400
+                },
+                {
+                    "name": "Germany",
+                    "size": 639100
+                },
+                {
+                    "name": "Greece",
+                    "size": 62143
+                },
+                {
+                    "name": "Hong Kong, China",
+                    "size": 37990
+                },
+                {
+                    "name": "Hungary",
+                    "size": 40002
+                },
+                {
+                    "name": "Iceland",
+                    "size": 16467
+                },
+                {
+                    "name": "India",
+                    "size": 834255
+                },
+                {
+                    "name": "Indonesia",
+                    "size": 151156
+                },
+                {
+                    "name": "Iran",
+                    "size": 206300
+                },
+                {
+                    "name": "Ireland",
+                    "size": 29750
+                },
+                {
+                    "name": "Italy",
+                    "size": 317900
+                },
+                {
+                    "name": "Japan",
+                    "size": 1154334
+                },
+                {
+                    "name": "Kazakhstan",
+                    "size": 79980
+                },
+                {
+                    "name": "Korea, Rep.",
+                    "size": 462863
+                },
+                {
+                    "name": "Kuwait",
+                    "size": 52034
+                },
+                {
+                    "name": "Lithuania",
+                    "size": 14010
+                },
+                {
+                    "name": "Malaysia",
+                    "size": 106366
+                },
+                {
+                    "name": "Mexico",
+                    "size": 256751
+                },
+                {
+                    "name": "Netherlands",
+                    "size": 107599
+                },
+                {
+                    "name": "New Zealand",
+                    "size": 43726
+                },
+                {
+                    "name": "Norway",
+                    "size": 142667
+                },
+                {
+                    "name": "Pakistan",
+                    "size": 95101
+                },
+                {
+                    "name": "Peru",
+                    "size": 32627
+                },
+                {
+                    "name": "Philippines",
+                    "size": 59616
+                },
+                {
+                    "name": "Poland",
+                    "size": 154607
+                },
+                {
+                    "name": "Portugal",
+                    "size": 46114
+                },
+                {
+                    "name": "Qatar",
+                    "size": 19706
+                },
+                {
+                    "name": "Romania",
+                    "size": 64636
+                },
+                {
+                    "name": "Russia",
+                    "size": 1036200
+                },
+                {
+                    "name": "Saudi Arabia",
+                    "size": 193702
+                },
+                {
+                    "name": "Singapore",
+                    "size": 41717
+                },
+                {
+                    "name": "Slovak Republic",
+                    "size": 29488
+                },
+                {
+                    "name": "South Africa",
+                    "size": 273689
+                },
+                {
+                    "name": "Spain",
+                    "size": 310100
+                },
+                {
+                    "name": "Sweden",
+                    "size": 149256
+                },
+                {
+                    "name": "Switzerland",
+                    "size": 69111
+                },
+                {
+                    "name": "Taiwan",
+                    "size": 237723
+                },
+                {
+                    "name": "Thailand",
+                    "size": 147538
+                },
+                {
+                    "name": "Turkey",
+                    "size": 199079
+                },
+                {
+                    "name": "Turkmenistan",
+                    "size": 15336
+                },
+                {
+                    "name": "Ukraine",
+                    "size": 191688
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "size": 77230
+                },
+                {
+                    "name": "United Kingdom",
+                    "size": 390011
+                },
+                {
+                    "name": "United States",
+                    "size": 4316037
+                },
+                {
+                    "name": "Uzbekistan",
+                    "size": 50099
+                },
+                {
+                    "name": "Venezuela",
+                    "size": 119295
+                }
+            ],
+            "name": "2008"
+        }
+    ],
+    "name": "Electricity generation total (million kilowatt-hours)"
+}
